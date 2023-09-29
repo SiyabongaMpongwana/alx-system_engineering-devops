@@ -1,4 +1,4 @@
-SHELL PERMISSIONS PROJECT
+				SHELL PERMISSIONS PROJECT 
 
 List of scripts and what they do:
 
@@ -12,4 +12,5 @@ List of scripts and what they do:
 7-everbody	       - Adds execution permission to owner,group owner, and other users to the file "hello".
 8-James_Bond	       - Gives the owner and group owner no permissions and the other users all permissions to the file "hello".
 9-John_Doe	       - Sets mode of file "hello".
+10-mirror_permissions  - Sets mode of file "hello" the same as "olleh"'s mode.
 
