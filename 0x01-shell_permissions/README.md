@@ -19,5 +19,5 @@ List of scripts and what they do:
 
 EXTRA SCRIPTS (ADVANCE CHALLENGES):
 
-100-change_owner_and_group - Changes the owner to "vincent" and the group owner to "staff" for all the files and  directories in the working directory.
-
+100-change_owner_and_group    - Changes the owner to "vincent" and the group owner to "staff" for all the files and  directories in the working directory.
+101-symbolic_link_permissions - Changes the owner and the group owner of "hello" to "vincent" and "staff".
