@@ -14,4 +14,4 @@ List of scripts and what they do:
 9-John_Doe	           - Sets mode of file "hello".
 10-mirror_permissions      - Sets mode of file "hello" the same as "olleh"'s mode.
 11-directories_permissions - Adds execute permission to all subdirectories of the current directory for the owner,group owner, and all other user.
-
+12-directory_permissions   - Creates directory called "my_dir" with permissions 751 in the working directory.
