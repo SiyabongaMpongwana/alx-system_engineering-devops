@@ -5,3 +5,5 @@ The code or commands are written before the dash and what they do is after the d
 
 0-hello_world 	  	- prints "Hello,world".
 1-confused_smiley 	- displays a confused smiley.
+2-hellofile 		- displays content of the "/etc/passwd" file.
+
